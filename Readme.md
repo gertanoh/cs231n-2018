@@ -35,7 +35,5 @@ I used Google Colab GPU for the Q5 of the assignment2.
 * [Q5: Generative Adversarial Networks](./assignment3/GANs-PyTorch.ipynb)
 
 
-All the props go to the standford team (Justin Johnson, Serena Yeung and the TA) that delivered the course and the assignments(also for making the
-videos and assignments available for free).
+All the props go to the CS231n team (Justin Johnson, Serena Yeung and the TAs) that delivered the course and the assignments(also for making the videos and assignments available for free).
 Thanks to Haofei Xu for sharing her solutions online, they have been helpful during these assignments, specially in assignment 2.
-
