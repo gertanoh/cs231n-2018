@@ -1,4 +1,4 @@
-# Standford CS231n (2018) : Convolutional networks for Visual Recognition
+# Standford CS231n (2018) : Convolutional Networks for Visual Recognition
 After long hours of wathcing videos and reading notes at [CS231n](http://cs231n.stanford.edu/),
 I was able to implement the solutions to the three assignments.
 The second assignment was by the far the hardest and the most rewarding.
